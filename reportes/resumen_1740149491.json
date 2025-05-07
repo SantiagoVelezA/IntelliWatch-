@@ -1,0 +1,9 @@
+{
+    "Nombre del archivo": "Libro2.xlsx",
+    "Filas": 5,
+    "Columnas": 2,
+    "Encabezados": [
+        "nombre",
+        "apellido"
+    ]
+}
